@@ -1,0 +1,29 @@
+          employee management sysytem
+1.   create a project - npx-create-react-app ems
+2.   to run a project - npm start
+3.   bootstrap - npm i react-bootstrap bootstrap
+4.   boootswatch - for theme
+5.   creating components 
+6.   employee.js - create an array of employee data
+7.   home.js -  create a home page 
+8.   icons - react icons github io 
+            npm i react-icons
+9.   Add.js - to add employee
+10.  Edit.js - to edit existing employee        
+11.  routing - to render one page to another
+            npm i react-Icons
+            import {BrowserRouter, Routes, Route} 
+
+             Route - declares an element that should be render
+             Routes - a container for a nested tree of elements that renders that branch that best matches the current location
+             BrowserRouter - a <Router> for use in web browsers  
+12.   link - import {Link} from react-router-dom
+             <Link to{'/add'}>....<Link/>
+13.   delete functionality
+14.   useNavigate() - React Hook -returns an imperative
+15.   edit functionality      
+16.   add functionality
+
+Hooks used in ems
+
+
